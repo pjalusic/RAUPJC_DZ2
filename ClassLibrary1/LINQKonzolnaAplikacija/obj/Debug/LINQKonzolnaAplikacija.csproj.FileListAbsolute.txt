@@ -1,0 +1,6 @@
+D:\Škola\5. semestar\C#\dz\RAUPJC_DZ2\ClassLibrary1\LINQKonzolnaAplikacija\bin\Debug\LINQKonzolnaAplikacija.exe.config
+D:\Škola\5. semestar\C#\dz\RAUPJC_DZ2\ClassLibrary1\LINQKonzolnaAplikacija\bin\Debug\LINQKonzolnaAplikacija.exe
+D:\Škola\5. semestar\C#\dz\RAUPJC_DZ2\ClassLibrary1\LINQKonzolnaAplikacija\bin\Debug\LINQKonzolnaAplikacija.pdb
+D:\Škola\5. semestar\C#\dz\RAUPJC_DZ2\ClassLibrary1\LINQKonzolnaAplikacija\obj\Debug\LINQKonzolnaAplikacija.csprojResolveAssemblyReference.cache
+D:\Škola\5. semestar\C#\dz\RAUPJC_DZ2\ClassLibrary1\LINQKonzolnaAplikacija\obj\Debug\LINQKonzolnaAplikacija.exe
+D:\Škola\5. semestar\C#\dz\RAUPJC_DZ2\ClassLibrary1\LINQKonzolnaAplikacija\obj\Debug\LINQKonzolnaAplikacija.pdb

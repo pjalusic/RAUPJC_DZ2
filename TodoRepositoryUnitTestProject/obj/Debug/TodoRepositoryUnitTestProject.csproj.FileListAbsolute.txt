@@ -1,0 +1,8 @@
+D:\Škola\5. semestar\C#\dz\RAUPJC_DZ2\TodoRepositoryUnitTestProject\bin\Debug\TodoRepositoryUnitTestProject.dll
+D:\Škola\5. semestar\C#\dz\RAUPJC_DZ2\TodoRepositoryUnitTestProject\bin\Debug\TodoRepositoryUnitTestProject.pdb
+D:\Škola\5. semestar\C#\dz\RAUPJC_DZ2\TodoRepositoryUnitTestProject\bin\Debug\ClassLibrary1.dll
+D:\Škola\5. semestar\C#\dz\RAUPJC_DZ2\TodoRepositoryUnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Škola\5. semestar\C#\dz\RAUPJC_DZ2\TodoRepositoryUnitTestProject\bin\Debug\ClassLibrary1.pdb
+D:\Škola\5. semestar\C#\dz\RAUPJC_DZ2\TodoRepositoryUnitTestProject\obj\Debug\TodoRepositoryUnitTestProject.csprojResolveAssemblyReference.cache
+D:\Škola\5. semestar\C#\dz\RAUPJC_DZ2\TodoRepositoryUnitTestProject\obj\Debug\TodoRepositoryUnitTestProject.dll
+D:\Škola\5. semestar\C#\dz\RAUPJC_DZ2\TodoRepositoryUnitTestProject\obj\Debug\TodoRepositoryUnitTestProject.pdb
