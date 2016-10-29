@@ -43,13 +43,12 @@ namespace LINQKonzolnaAplikacija
             var studentsOnMaleOnlyUniversities = universities.Where(uni => uni.Students.All(s => s.Gender == Gender.Male))
                 .SelectMany(uni => uni.Students.Select(s => s).ToArray())
                 .ToArray();
-                                                        
 
             Print(allCroatianStudents);
             Print(croatianStudentsOnMultipleUniversities);
             Print(studentsOnMaleOnlyUniversities);
 
-
+        
             Console.ReadLine();
         }
 
