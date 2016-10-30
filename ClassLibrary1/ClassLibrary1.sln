@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQKonzolnaAplikacija", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad6", "..\Zad6\Zad6.csproj", "{93BAF017-F133-4E01-AD04-67750786FDBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad7i8", "Zad7i8\Zad7i8.csproj", "{3E4148BE-4EBB-4D7B-86F2-9F58407C6394}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{93BAF017-F133-4E01-AD04-67750786FDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93BAF017-F133-4E01-AD04-67750786FDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93BAF017-F133-4E01-AD04-67750786FDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E4148BE-4EBB-4D7B-86F2-9F58407C6394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4148BE-4EBB-4D7B-86F2-9F58407C6394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4148BE-4EBB-4D7B-86F2-9F58407C6394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4148BE-4EBB-4D7B-86F2-9F58407C6394}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
