@@ -1,5 +1,5 @@
 #NAPOMENA
-Zbog nekog razloga mi se LINQ dio zadaće nalazi u ClassLibrary1 folderu.
+Zbog nekog razloga mi se LINQ dio zadaće i 7. i 8. zadatak nalaze u ClassLibrary1 folderu.
 
 #Pitanje 1
 5,94 sekunde.
