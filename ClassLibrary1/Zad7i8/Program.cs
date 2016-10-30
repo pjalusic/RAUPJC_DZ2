@@ -18,38 +18,33 @@ namespace Zad7i8
         private static async Task LetsSayUserClickedAButtonOnGuiMethodAsync()
         {
             var resultTask = Task.Run(() => GetTheMagicNumberAsync());
-            var result = await resultTask;
-            Console.WriteLine(result);
+            Console.WriteLine(await resultTask);
         }
 
         private static async Task<int> GetTheMagicNumberAsync()
         {
             var resultTask = Task.Run( () => IKnowIGuyWhoKnowsAGuyAsync());
-            var result = await resultTask;
-            return result;
+            return await resultTask;
         }
 
         private static async Task<int> IKnowIGuyWhoKnowsAGuyAsync()
         {
             var resultTask1 = Task.Run(() => IKnowWhoKnowsThisAsync(10));
             var resultTask2 = Task.Run(() => IKnowWhoKnowsThisAsync(5));
-            var results = await resultTask1 + await resultTask2;
-            return results;
+            return (await resultTask1 + await resultTask2);
         }
 
         private static async Task<int> IKnowWhoKnowsThisAsync(int n)
         {
             var resultTask = Task.Run(() => FactorialDigitSumAsync(n));
-            var result = await resultTask;
-            return result;
+            return await resultTask;
         }
 
 
         private static async Task<int> FactorialDigitSumAsync(int n)
         {
             var resultsTask = Task.Run(() => ComputeFactDigitSum(n));
-            var results = await resultsTask;
-            return results;
+            return await resultsTask;
         }
 
         private static int ComputeFactDigitSum(int n)
