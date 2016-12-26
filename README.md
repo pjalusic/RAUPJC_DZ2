@@ -2,7 +2,7 @@
 Zbog nekog razloga mi se LINQ dio zadaće i 7. i 8. zadatak nalaze u ClassLibrary1 folderu.
 
 #Pitanje 1
-5,94 sekunde.
+5,93 sekunde.
 
 #Pitanje 2
 Samo na jednoj dretvi.
