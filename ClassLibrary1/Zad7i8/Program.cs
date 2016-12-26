@@ -10,7 +10,7 @@ namespace Zad7i8
     {
         static void Main(string[] args)
         {
-            var t = Task.Run(() => LetsSayUserClickedAButtonOnGuiMethodAsync());
+            Task.Run(() => LetsSayUserClickedAButtonOnGuiMethodAsync());
 
             Console.Read();
         }
